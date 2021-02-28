@@ -12,3 +12,5 @@ Male, Age, Debt, Married, Bank Customer, Education Level, Ethnicity, Years Emplo
 ##### Support Vector Machine (with RBF kernal)
 ##### K Nearest Neighbors and
 ##### Naive Bayes
+
+#### NOTE: The .py acts a custom function used under the requirements of the .ipynb file
